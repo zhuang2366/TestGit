@@ -6,6 +6,7 @@ public class main {
 		System.out.println("hello Git");
 		System.out.println("hello Git  版本1" );
 		System.out.println("hello Git  版本2" );
+System.out.println("hello Git 在线添加" );
 
 	}
 
